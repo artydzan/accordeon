@@ -104,7 +104,6 @@ body {
 .main__meme_toggle:checked + .main__meme_label .main__meme_title {
   color: black;
 }
-
 @media screen and (max-width: 120rem) {
   .main__meme_image {
     max-width: 42%;
